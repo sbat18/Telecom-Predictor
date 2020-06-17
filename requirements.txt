@@ -1,0 +1,10 @@
+Flask==1.1.1
+gunicorn==19.9.0
+winja2==2.10.1
+werkzeug==0.15.2
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=1.4.3
+pandas>=0.19
+tensoflow==1.15.0
+keras==2.2.4
